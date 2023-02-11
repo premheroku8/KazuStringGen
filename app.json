@@ -25,7 +25,7 @@
          "plan": "heroku-postgresql"
       }
    ],
-  "repository": "https://github.com/ionmusic/KazuStringGen",
+  "repository": "https://github.com/premheroku8/KazuStringGen",
   "env": {
     "ENVIRONMENT": {
       "description": "Don't change ANYTHING.",
